@@ -53,15 +53,18 @@ a visualization. **Merged PRs get exclusive 169pi swag. 🎁**
 <!-- ────────────────────────────────────────────────────────────────── -->
 
 <!-- ENTRIES:START -->
+### @ayush-code-ally — Ayush's Edge-Compute Rebel Starfighter
+
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/d5b2e8bf-9383-4efc-bdcb-0e8a0809c5fb" />
+
+*What it represents:* Alpie-Core as an agile "local AI" starfighter using 4-bit edge intelligence to operate autonomously against sprawling, resource-heavy centralized "monopolies."
+**Contributed by [@ayush-code-ally](https://github.com/ayush-code-ally)**
 
 ### @169pi — the first brick 🧱
-
 This wall is yours to build on. Fork the repo, add your entry right here, and
 open a PR — see **[CONTRIBUTING.md](../CONTRIBUTING.md)** for the 5-step guide.
-
 *What it represents:* the open, collaborative spirit behind everything at 169pi.
 **Contributed by [@169pi](https://github.com/169Pi)**
-
 <!-- ENTRIES:END -->
 
 ---
